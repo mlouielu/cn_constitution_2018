@@ -26,4 +26,4 @@
 
 ## 使用 GitHub
 
-* [請點選本連結](https://github.com/mlouielu/cn_constitution_2018/commit/f76cb47f11282a0d77ad2091beceb94ad1e841dc)
+* [請點選本連結](https://github.com/mlouielu/cn_constitution_2018/commit/646c76a573ad49414e708c091393ddb7c437f286?diff=split)
