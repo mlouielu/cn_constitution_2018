@@ -20,7 +20,7 @@
 
 ## 推薦使用 (能夠逐字 diff)
 
-```git diff --word-diff-regex=. --word-diff=color 0f6dd3 CN_Constitution.md```
+```git diff --word-diff-regex=. --word-diff=color a47032 CN_Constitution.md```
 
 ![](sample_diff.png)
 
