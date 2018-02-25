@@ -18,4 +18,10 @@
 
 # 使用方式
 
-```git diff --word-diff-regex=. --word-diff=color```
+## 推薦使用 (能夠逐字 diff)
+
+```git diff --word-diff-regex=. --word-diff=color 0f6dd3 CN_Constitution.md```
+
+## 使用 GitHub
+
+* [請點選本連結](https://github.com/mlouielu/cn_constitution_2018/commit/f76cb47f11282a0d77ad2091beceb94ad1e841dc)
