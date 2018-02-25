@@ -16,14 +16,14 @@
 
 2018年1月26日
 
-# 使用方式
+# 使用方式 (HOW TO USE)
 
-## 推薦使用 (能夠逐字 diff)
+## 推薦使用 (能夠逐字 diff) (Using git diff)
 
 ```git diff --word-diff-regex=. --word-diff=color a47032 CN_Constitution.md```
 
 ![](sample_diff.png)
 
-## 使用 GitHub
+## 使用 GitHub (Using GitHub online diff)
 
-* [請點選本連結](https://github.com/mlouielu/cn_constitution_2018/commit/646c76a573ad49414e708c091393ddb7c437f286?diff=split)
+* [請點選本連結 - Click this link](https://github.com/mlouielu/cn_constitution_2018/commit/646c76a573ad49414e708c091393ddb7c437f286?diff=split)
