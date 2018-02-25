@@ -22,6 +22,8 @@
 
 ```git diff --word-diff-regex=. --word-diff=color 0f6dd3 CN_Constitution.md```
 
+![](sample_diff.png)
+
 ## 使用 GitHub
 
 * [請點選本連結](https://github.com/mlouielu/cn_constitution_2018/commit/f76cb47f11282a0d77ad2091beceb94ad1e841dc)
